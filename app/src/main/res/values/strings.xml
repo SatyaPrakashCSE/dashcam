@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Dashcam</string>
+
+    <!-- Your identity for this challenge — used to build the RTMP paths -->
+    <string name="roll_no">BTECH2511123</string>
+
+    <string name="rtmp_host">rtmp://15.207.177.194:1936/hackathon/</string>
+    <string name="viewer_url">http://15.207.177.194:8081/web/player.html</string>
+</resources>
