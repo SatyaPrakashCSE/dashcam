@@ -1,4 +1,4 @@
-# \U0001f4f7 Pocket Dashcam \u2014 MoboSafe Campus Challenge 2026
+#Pocket Dashcam 2014 MoboSafe Campus Challenge 2026
 
 **Roll Number:** BTECH2511123
 **Event:** Movozen Private Limited \u2014 Campus Hiring 2026
