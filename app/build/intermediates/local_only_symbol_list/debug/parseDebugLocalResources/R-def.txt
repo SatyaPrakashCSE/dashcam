@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id btnStartStop
+id btnSwitchCamera
+id controlsBar
+id statusText
+id surfaceView
+layout activity_main
+mipmap ic_launcher
+string app_name
+string roll_no
+string rtmp_host
+string viewer_url

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.mobosafe.dashcam.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.mobosafe.dashcam.app-main-36:/layout/activity_main.xml"
+    }
+]

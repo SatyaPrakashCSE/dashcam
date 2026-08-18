@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.mobosafe.dashcam'
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.mobosafe.dashcam"
         minSdk 23
-        targetSdk 34
+        targetSdk 36
         versionCode 1
         versionName "1.0"
     }
@@ -22,12 +22,12 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = '11'
     }
 
     buildFeatures {
@@ -44,5 +44,5 @@ dependencies {
     // RootEncoder (formerly rtmp-rtsp-stream-client-java) — Camera2 + mic -> RTMP.
     // Check https://github.com/pedroSG94/RootEncoder for the latest version tag
     // and swap it in if this one has moved on.
-    implementation 'com.github.pedroSG94.RootEncoder:library:2.4.2'
+    implementation 'com.github.pedroSG94.RootEncoder:library:2.7.3'
 }
